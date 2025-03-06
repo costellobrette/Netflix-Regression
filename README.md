@@ -2,7 +2,7 @@
 
 ### Netflix Lasso Regression
 
-This notebook contains a Lasso Linear Regression model for the Netflix database that predicts the total minutes watched for each viewing session under the Netflix profile 'Brette'
+This notebook contains a Lasso Linear Regression model for the Netflix database that predicts the total minutes watched for each viewing session under the Netflix profile 'Brette'.
 
 ### Nova Scotia Collisions Regression 
 
