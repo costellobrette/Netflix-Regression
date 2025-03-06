@@ -14,6 +14,7 @@ Below are links to each:
 [Nova Scotia Collisions Logistic Regression Model]: https://github.com/costellobrette/Linear-Logistic-Regression/blob/main/NS%20Collisions%20Logistic%20Regression.ipynb
 
 [Netflix Lasso Regression Model]
+
 [Nova Scotia Collisions Logistic Regression Model]
 
 
