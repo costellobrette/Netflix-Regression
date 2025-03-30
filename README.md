@@ -10,10 +10,10 @@ This notebook contains a PyCaret regression model that is used to predict the be
 
 Below are links to each:
 
-[Netflix Lasso Regression Model]: 
+[Netflix Gradient Boosting Regressor Model]: https://github.com/costellobrette/Netflix-Regression/blob/main/Netflix%20GBR%20Regression.ipynb
 [Netflix PyCaret Regression]: 
 
-[Netflix Lasso Regression Model]
+[Netflix Gradient Boosting Regressor Model]
 
 [Nova Scotia Collisions Logistic Regression Model]
 
