@@ -1627,3 +1627,16 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2025-03-30 20:01:34,408:WARNING:C:\Users\coste\miniconda3\envs\pycaret_env\Lib\site-packages\sklearn\metrics\_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
   warnings.warn(
 
+2025-03-30 20:03:32,488:INFO:Initializing plot_model()
+2025-03-30 20:03:32,488:INFO:plot_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001CA716A7F50>, estimator=GradientBoostingRegressor(random_state=42), plot=residuals, scale=1, save=False, fold=None, fit_kwargs=None, plot_kwargs=None, groups=None, feature_name=None, label=False, verbose=True, system=True, display=None, display_format=None)
+2025-03-30 20:03:32,488:INFO:Checking exceptions
+2025-03-30 20:03:32,488:INFO:Preloading libraries
+2025-03-30 20:03:32,511:INFO:Copying training dataset
+2025-03-30 20:03:32,511:INFO:Plot type: residuals
+2025-03-30 20:03:32,711:INFO:Fitting Model
+2025-03-30 20:03:32,711:WARNING:C:\Users\coste\miniconda3\envs\pycaret_env\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but GradientBoostingRegressor was fitted with feature names
+  warnings.warn(
+
+2025-03-30 20:03:32,812:INFO:Scoring test/hold-out set
+2025-03-30 20:03:33,585:INFO:Visual Rendered Successfully
+2025-03-30 20:03:33,919:INFO:plot_model() successfully completed......................................
