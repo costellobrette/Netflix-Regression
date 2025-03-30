@@ -11,7 +11,7 @@ This notebook contains a PyCaret regression model that is used to predict the be
 Below are links to each:
 
 [Netflix Gradient Boosting Regressor Model]: https://github.com/costellobrette/Netflix-Regression/blob/main/Netflix%20GBR%20Regression.ipynb
-[Netflix PyCaret Regression]: https://github.com/costellobrette/Netflix-Regression/blob/main/Netflix%20GBR%20Regression.ipynb
+[Netflix PyCaret Regression]: https://github.com/costellobrette/Netflix-Regression/blob/main/Netflix%20PyCaret%20Regression.ipynb
 
 [Netflix Gradient Boosting Regressor Model]
 
